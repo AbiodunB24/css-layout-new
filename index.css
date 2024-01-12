@@ -335,6 +335,11 @@ li:hover {
         cursor: pointer;
     }
 }
+/* .count{
+    display: flex;
+    flex-direction: row;
+    justify-content: s;
+} */
 .imgbox:hover {
     box-shadow: 3px 3px 2px 2px grey;
     border-bottom-left-radius: 10px;
